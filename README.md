@@ -13,3 +13,7 @@
 *MENTOR*:NEELA SANTHOSH
 
 ##YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK Visual Studio Code (VS Code) Jupyter Notebook extension Python Dash (JupyterDash) Pandas Plotly To build a fully functional and interactive dashboard using Python and Dash within a Jupyter Notebook environment in Visual Studio Code (VS Code). The dashboard allows users to explore and visualize data interactively, generating insights through filters, plots, and tables.**
+
+#OUTPUT
+
+<img width="611" alt="Image" src="https://github.com/user-attachments/assets/6000ac69-d6e4-48fc-8dc6-19b9697fa876" />
